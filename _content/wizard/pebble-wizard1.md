@@ -6,6 +6,8 @@ questions:
         value: 'yes'
       - label: 'No'
         value: 'no'
+      - label: Not Sure
+        value: not_sure
     inputType: radio
     label: Are you married?
   - choices:
