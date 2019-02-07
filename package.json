@@ -1,0 +1,23 @@
+{
+  "name": "test-netlify-cms-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpray/test-netlify-cms-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpray/test-netlify-cms-content/issues"
+  },
+  "homepage": "https://github.com/jpray/test-netlify-cms-content#readme",
+  "devDependencies": {
+    "fs-extra": "^7.0.1",
+    "yamljs": "^0.3.0"
+  }
+}
