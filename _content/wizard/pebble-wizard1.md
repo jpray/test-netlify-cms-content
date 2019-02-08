@@ -1,5 +1,5 @@
 ---
-title: Pebble Wizard2
+title: Pebble Wizard3
 questions:
   - choices:
       - label: 'Yes'
